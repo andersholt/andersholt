@@ -1,7 +1,7 @@
 
+  [![Anders Holt's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersholt)](https://github.com/anuraghazra/github-readme-stats)
 
   <p align="center">
-  [![Anders Holt's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersholt)](https://github.com/anuraghazra/github-readme-stats)
 
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/andersholt/github-readme-stats/workflows/Test/badge.svg" />
