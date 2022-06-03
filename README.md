@@ -12,9 +12,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)\
-![Profile View Counter](https://komarev.com/ghpvc/?username=andersholt)
 
 ![Anders Holt's GitHub stats](https://github-readme-stats-one-gilt.vercel.app/api?username=andersholt)\
 ![Languages](https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=andersholt)\
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=andersholt)\
-![Contributions](https://activity-graph.herokuapp.com/graph?username=andersholt&custom_title=Contributions&bg_color=ffffff&color=708090)\
+![Contributions](https://activity-graph.herokuapp.com/graph?username=andersholt&custom_title=Contributions&bg_color=ffffff&color=708090)
