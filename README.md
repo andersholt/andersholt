@@ -17,3 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersholt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersholt"/>
+
+![Anders Holt's Activity Graph](https://activity-graph.herokuapp.com/graph?username=andersholt&custom_title=Anders%20Holt's%20Contribution)
