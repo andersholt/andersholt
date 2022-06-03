@@ -19,3 +19,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersholt"/>
 
 ![Anders Holt's Activity Graph](https://activity-graph.herokuapp.com/graph?username=andersholt&custom_title=Anders%20Holt's%20Contribution)
+![Profile View Counter](https://komarev.com/ghpvc/?username=andersholt)
