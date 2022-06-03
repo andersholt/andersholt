@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[![Anders Holt's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersholt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anders Holt's GitHub stats](https://github-readme-stats-one-gilt.vercel.app/api?username=andersholt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersholt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersholt&layout=compact)](https://github.com/andersholt/github-readme-stats) 
 
