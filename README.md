@@ -17,6 +17,7 @@
 [![Top Langs](https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=andersholt)](https://github.com/andersholt/) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersholt"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=andersholt)
 
 ![Anders Holt's Activity Graph](https://activity-graph.herokuapp.com/graph?username=andersholt&custom_title=Anders%20Holt's%20Contribution)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=andersholt)
