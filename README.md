@@ -106,10 +106,6 @@
       />
       <img
         style="height: 300px"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=andersholt"
-      />
-      <img
-        style="height: 300px"
         src="https://activity-graph.herokuapp.com/graph?username=andersholt&amp;custom_title=Contributions&amp;bg_color=ffffff&amp;color=708090"
       />
     </div>
