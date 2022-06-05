@@ -102,7 +102,7 @@
       />
       <img
         style="height: 270px"
-        src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=andersholt"
+        src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=andersholt&hide=css"
       />
     </div>
   </body>
