@@ -104,9 +104,5 @@
         style="height: 270px"
         src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=andersholt"
       />
-      <img
-        style="height: 300px"
-        src="https://activity-graph.herokuapp.com/graph?username=andersholt&amp;custom_title=Contributions&amp;bg_color=ffffff&amp;color=708090"
-      />
     </div>
   </body>
