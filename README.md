@@ -81,7 +81,7 @@
       style="display: flex; flex-wrap: wrap; justify-content: space-between"
     >
       <img
-        style="width: 270px"
+        style="height: 270px"
         src="https://github-readme-stats-one-gilt.vercel.app/api?username=andersholt"
       />
       <img
