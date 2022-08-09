@@ -47,23 +47,11 @@
       />
       <img
         style="height: 30px"
-        src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"
-      />
-      <img
-        style="height: 30px"
-        src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3"
-      />
-      <img
-        style="height: 30px"
         src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb"
       />
       <img
         style="height: 30px"
         src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&amp;logo=postgresql"
-      />
-      <img
-        style="height: 30px"
-        src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql"
       />
       <img
         style="height: 30px"
@@ -76,10 +64,6 @@
       <img
         style="height: 30px"
         src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git"
-      />
-      <img
-        style="height: 30px"
-        src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github"
       />
     </div>
     <h2
