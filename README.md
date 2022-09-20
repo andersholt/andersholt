@@ -81,11 +81,11 @@
       style="display: flex; flex-wrap: wrap; justify-content: space-between"
     >
       <img
-        style="height: 270px"
+        style="height: 20vh"
         src="https://github-readme-stats-one-gilt.vercel.app/api?username=andersholt"
       />
       <img
-        style="height: 270px"
+        style="height: 20vh"
         src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=andersholt&hide=css"
       />
     </div>
