@@ -91,18 +91,8 @@
       style="height: 30px"
       src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>       
     </div>  
-    <h2  
-    align="center"
-      style="  
-        font-family: 'DM Sans', sans-serif;  
-        margin: 40px auto 10px auto;  
-        width: fit-content;  
-      "  
-    >  
-      Stats:  
-    </h2>  
     <div  
-      style="display: flex; flex-wrap: wrap; background: black; width: 100%; justify-content: center"  
+      style="display: flex; flex-wrap: wrap; background: black; width: 100%; justify-content: center;"  
     >  
       <img  
         style="width: 70%"  
