@@ -22,7 +22,7 @@
         display: flex;  
         flex-wrap: wrap;
       "  
-    >            <div id="grey-line"></div>  
+    >
                  <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
@@ -35,7 +35,7 @@
                  <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
-    <h4>Technologies i have learned:</h4>
+    <h4>Other technologies i use:</h4>
           <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
