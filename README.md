@@ -3,7 +3,7 @@
       href="https://fonts.googleapis.com/css?family=DM Sans" rel="stylesheet"/>  
   </head>  
   <body>  
-    <h2  
+    <h4  
     align="center"
       style="  
         font-family: 'DM Sans', sans-serif;  
@@ -12,7 +12,7 @@
       "  
     >  
       Currently learning
-    </h2>  
+    </h4>  
     <div id="grey-line"></div>  
     <div  
       id="badges"
