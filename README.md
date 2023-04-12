@@ -35,7 +35,7 @@
                       <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
-    <h4>Technology i am familiar with:</h4>
+    <h4>Technologies i am familiar with:</h4>
         <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
