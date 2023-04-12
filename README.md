@@ -23,7 +23,20 @@
         flex-wrap: wrap;
       "  
     >
-                 <img  
+                <img  
+        style="height: 30px"  
+        src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+                      <img  
+        style="height: 30px"  
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+                      <img  
+        style="height: 30px"  
+        src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
+                      <img  
+        style="height: 30px"  
+        src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
+    <h4>Technology i am familiar with:</h4>
+        <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
                  <img  
@@ -35,7 +48,6 @@
                  <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
-    <h4>Other technologies i use:</h4>
           <img  
         style="height: 30px"  
         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
@@ -86,10 +98,7 @@
       src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
       <img 
       style="height: 30px"
-      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-             <img 
-      style="height: 30px"
-      src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>       
+      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>    
     </div>  
     <div  
       style="display: flex; flex-wrap: wrap; background: black; width: 100%; justify-content: center;"  
